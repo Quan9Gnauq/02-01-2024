@@ -9,6 +9,8 @@
   border-radius: 8px;
   padding: 16px;
   gap: 16px;
+  background: white;
+  border-radius: 8px;
 }
 .dat-mua-hang {
   position: sticky;
